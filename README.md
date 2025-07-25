@@ -77,7 +77,7 @@ src/main/java/com/literalura/
 
 1. **Clona el repositorio:**
 ```sh
-git clone https://github.com/tuusuario/LiterAlura.git
+git clone https://github.com/tuusuario/LiterAlura.git](https://github.com/aantoa/LiterAlura.git
 cd LiterAlura
 ```
 2. **Crea la base de datos PostgreSQL (ejemplo):**
